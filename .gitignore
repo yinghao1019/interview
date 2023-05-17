@@ -72,3 +72,12 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
+/asset_ap.iml
+/HELP.md
+/mvnw
+/mvnw.cmd
+/.mvn/
+/.openapi-generator/VERSION
+/.metadata/
+patch.diff
